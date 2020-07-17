@@ -1,18 +1,18 @@
-# ×ÔÓÃ Clash ¹æÔò¼¯
+# è‡ªç”¨ Clash è§„åˆ™é›†
 
-* ½ö¹©¸öÈËÊ¹ÓÃ
+* ä»…ä¾›ä¸ªäººä½¿ç”¨
 
-* ´ıÍêÉÆ
+* å¾…å®Œå–„
 
 ***
 
 ## Providers
 
-ÒÔ rule-providers ¸ñÊ½´æ·Å Clash ¹æÔò
+ä»¥ rule-providers æ ¼å¼å­˜æ”¾ Clash è§„åˆ™
 
-| ÎÄ¼şÃû | °üº¬ÄÚÈİ |
+| æ–‡ä»¶å | åŒ…å«å†…å®¹ |
 | - | - |
-| domainDomestic.yaml | ×ÔÓÃÖ±Á¬¹æÔò domain ¸ñÊ½ |
-| ipcidrDomestic.yaml | ×ÔÓÃÖ±Á¬¹æÔò ipcidr ¸ñÊ½ |
-| OneDrive.yaml | OneDrive ¹æÔò domain ¸ñÊ½ |
-| Telegram.yaml | Telegram ¹æÔò ipcidr ¸ñÊ½ |
+| domainDomestic.yaml | è‡ªç”¨ç›´è¿è§„åˆ™ domain æ ¼å¼ |
+| ipcidrDomestic.yaml | è‡ªç”¨ç›´è¿è§„åˆ™ ipcidr æ ¼å¼ |
+| OneDrive.yaml | OneDrive è§„åˆ™ domain æ ¼å¼ |
+| Telegram.yaml | Telegram è§„åˆ™ ipcidr æ ¼å¼ |
