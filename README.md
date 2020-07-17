@@ -16,3 +16,5 @@
 | ipcidrDomestic.yaml | 自用直连规则 ipcidr 格式 |
 | OneDrive.yaml | OneDrive 规则 domain 格式 |
 | Telegram.yaml | Telegram 规则 ipcidr 格式 |
+
+test
