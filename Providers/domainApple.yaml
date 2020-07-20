@@ -1,0 +1,15 @@
+payload:
+  # Apple Domain
+  # > Apple API
+  - '+.aaplimg.com'
+  - '+.apple.co'
+  - '+.apple.com'
+  - '+.apple-cloudkit.com'
+  - '+.appsto.re'
+  - '+.cdn-apple.com'
+  - '+.icloud.com'
+  - '+.icloud-content.com'
+  - '+.itunes.com'
+  - '+.me.com'
+  # > Apple News
+  - '+.apple.news'
