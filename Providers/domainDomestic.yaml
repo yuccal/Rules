@@ -29,6 +29,7 @@ payload:
   - '+.mzstatic.com'
   # > Samsung
   - '+.samsungcloudcn.com'
+  - '+.samsungapps.com'
   - '+.samsungcloud.com'
   - '+.sansungdm.com'
   - 'cn-ms.galaxyappstore.com'
