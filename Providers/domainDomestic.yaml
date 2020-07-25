@@ -97,7 +97,7 @@ payload:
   # > Strava
   - 'analytics.strava.com'
   # > Umeng
-  - 'msg.umeng.com'
+  - '+.umeng.com'
   - '+.umengcloud.com'
   # > Mozilla
   - '+.tracking-protection.cdn.mozilla.net'
