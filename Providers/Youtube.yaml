@@ -1,0 +1,10 @@
+payload:
+  # Youtube
+  - 'youtubei.googleapis.com'
+  - '+.googlevideo.com'
+  - '+.ggpht.com'
+  - '+.gvt2.com'
+  - '+.ytimg.com'
+  - '+.youtube.*'
+  - '+.youtu.be'
+  - '+.yt.be'
