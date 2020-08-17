@@ -1,5 +1,6 @@
 payload:
   # OneDrive
+  - 'store-images.s-microsoft.com'
   - '+.1drv.com'
   - '+.onedrive.com'
   - '+.live.com'
