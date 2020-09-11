@@ -1,21 +1,23 @@
 payload:
   # Apple Domain
   # > Apple API
-  - '+.aaplimg.com'
-  - '+.apple.co'
-  - '+.apple.com'
-  - '+.apple-cloudkit.com'
-  - '+.apple-dns.net'
-  - '+.apple.*'
-  - '+.apple.*.*'
-  - '+.appstore.com'
-  - '+.crashlytics.com'
-  - '+.appsto.re'
-  - '+.cdn-apple.com'
-  - '+.www-cdn.icloud.com.akadns.net'
-  - '+.icloud.com'
-  - '+.icloud-content.com'
-  - '+.itunes.com'
-  - '+.me.com'
+  - "+.aaplimg.com"
+  - "+.apple.co"
+  - "+.apple.com"
+  - "+.apple-cloudkit.com"
+  - "+.appsto.re"
+  - "+.cdn-apple.com"
+  - "+.apple-dns.net"
+  - "+.apple.*"
+  - "+.apple.*.*"
+  - "+.appstore.com"
+  - "+.crashlytics.com"
+  - "+.appsto.re"
+  - "+.cdn-apple.com"
+  - "+.www-cdn.icloud.com.akadns.net"
+  - "+.icloud.com"
+  - "+.icloud-content.com"
+  - "+.itunes.com"
+  - "+.me.com"
   # > Apple News
-  - '+.apple.news'
+  - "+.apple.news"
