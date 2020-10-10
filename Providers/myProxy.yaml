@@ -1,0 +1,15 @@
+payload:
+  # My proxy list
+  - 'store-images.s-microsoft.com'
+  - '+.1drv.com'
+  - '+.onedrive.com'
+  - '+.live.com'
+  - 'oneclient.sfx.ms'
+  - '+.livefilestore.com'
+  - '+.storage.msn.com'
+  - '+.sharepoint.com'
+  - '+.sharepointonline.com'
+  - '+.skydrive.wns.windows.com'
+  - '+.spoprod-a.akamaihd.net'
+  - '+.github.com'
+  - 'raw.githubusercontent.com'
