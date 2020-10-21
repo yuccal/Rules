@@ -9,7 +9,6 @@ payload:
   # > Google
   - '+.googletraveladservices.com'
   - 'dl.google.com'
-  - 'mtalk.google.com'
   - 'safebrowsing.googleapis.com'
   - '+.safebrowsing-cache.google.com'
   # > Apple CDN
